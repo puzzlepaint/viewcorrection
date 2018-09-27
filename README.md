@@ -2,7 +2,7 @@
 
 This repository contains the code for the following paper:
 
-T. Schöps, M. R. Oswald, P. Speciale, S. Yang, M. Pollefeys, "Real-Time View Correction for Mobile Devices", Special issue of TVCG on ISMAR 2017. Presented at ISMAR 2017. \[[pdf](http://people.inf.ethz.ch/schoepst/papers/schoeps2017tvcg.pdf)\] \[[website](http://cvg.ethz.ch/research/view-correction/)\] \[[bib](http://people.inf.ethz.ch/schoepst/bib/schoeps2017ismar.bib)\]
+T. Schöps, M. R. Oswald, P. Speciale, S. Yang, M. Pollefeys, "Real-Time View Correction for Mobile Devices", Special issue of TVCG on ISMAR 2017. Presented at ISMAR 2017. \[[pdf](http://cvg.ethz.ch/research/view-correction/paper/Schoepst2017ISMAR.pdf)\] \[[website](http://cvg.ethz.ch/research/view-correction/)\] \[[bib](http://cvg.ethz.ch/research/view-correction/paper/Schoepst2017ISMAR.bib)\]
 
 For this open source release as a Linux application, we removed the tight integration with the Google Tango framework of the version which was used to generate the result for the paper.
 The provided code merely runs the view correction on synthetic data for testing purposes.
